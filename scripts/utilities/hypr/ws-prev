@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+CUR=$(hyprctl activeworkspace -j | jq -r '.id')
+BASE=$(( (CUR/10)*10 ))
+
+# Backwards within three slots
+OFFSET=$(( (CUR - BASE + 2) % 3 ))
+PREV=$(( BASE + OFFSET ))
+
+hyprctl dispatch workspace "$PREV"
