@@ -9,6 +9,10 @@
 			"path": "../../../.config"
 		},
 		{
+			"name": "Chezmoi Directory",
+			"path": "../../../.local/share/chezmoi"	
+		},
+		{
 			"name": "Omarchy Defaults - DON'T CHANGE",
 			"path": "../../../.local/share/omarchy"
 		}
