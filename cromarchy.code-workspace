@@ -15,6 +15,10 @@
 		{
 			"name": "Omarchy Defaults - DON'T CHANGE",
 			"path": "../../../.local/share/omarchy"
+		},
+		{
+			"name": "Home Directory",
+			"path": "../../../"
 		}
 	],
 	"settings": {}
