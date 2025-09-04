@@ -1,0 +1,163 @@
+{
+        "$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
+        "Sources" :
+        [
+                {
+                        "Packages" :
+                        [
+                                {
+                                        "PackageIdentifier" : "7zip.7zip"
+                                },
+                                {
+                                        "PackageIdentifier" : "Git.Git"
+                                },
+                                {
+                                        "PackageIdentifier" : "Logitech.Options"
+                                },
+                                {
+                                        "PackageIdentifier" : "Logitech.UnifyingSoftware"
+                                },
+                                {
+                                        "PackageIdentifier" : "Microsoft.Office"
+                                },
+                                {
+                                        "PackageIdentifier" : "Microsoft.OneDrive"
+                                },
+                                {
+                                        "PackageIdentifier" : "RustDesk.RustDesk"
+                                },
+                                {
+                                        "PackageIdentifier" : "Piriform.Speccy"
+                                },
+                                {
+                                        "PackageIdentifier" : "LGUG2Z.komorebi"
+                                },
+                                {
+                                        "PackageIdentifier" : "Microsoft.AzureCLI"
+                                },
+                                {
+                                        "PackageIdentifier" : "LGUG2Z.whkd"
+                                },
+                                {
+                                        "PackageIdentifier" : "Alacritty.Alacritty"
+                                },
+                                {
+                                        "PackageIdentifier" : "JanDeDobbeleer.OhMyPosh"
+                                },
+                                {
+                                        "PackageIdentifier" : "Adobe.Acrobat.Reader.64-bit"
+                                },
+                                {
+                                        "PackageIdentifier" : "Neovim.Neovim"
+                                },
+                                {
+                                        "PackageIdentifier" : "Inkscape.Inkscape"
+                                },
+                                {
+                                        "PackageIdentifier" : "wez.wezterm"
+                                },
+                                {
+                                        "PackageIdentifier" : "VirtualDesktop.Streamer"
+                                },
+                                {
+                                        "PackageIdentifier" : "Flameshot.Flameshot"
+                                },
+                                {
+                                        "PackageIdentifier" : "Microsoft.PowerShell"
+                                },
+                                {
+                                        "PackageIdentifier" : "Microsoft.Edge"
+                                },
+                                {
+                                        "PackageIdentifier" : "VMPK.VMPK"
+                                },
+                                {
+                                        "PackageIdentifier" : "Microsoft.VCRedist.2015+.x86"
+                                },
+                                {
+                                        "PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.8"
+                                },
+                                {
+                                        "PackageIdentifier" : "Tailscale.Tailscale"
+                                },
+                                {
+                                        "PackageIdentifier" : "Microsoft.VCRedist.2015+.x64"
+                                },
+                                {
+                                        "PackageIdentifier" : "Bitwarden.Bitwarden"
+                                },
+                                {
+                                        "PackageIdentifier" : "Ablaze.Floorp"
+                                },
+                                {
+                                        "PackageIdentifier" : "AutoHotkey.AutoHotkey"
+                                },
+                                {
+                                        "PackageIdentifier" : "Google.PlatformTools"
+                                },
+                                {
+                                        "PackageIdentifier" : "Schniz.fnm"
+                                },
+                                {
+                                        "PackageIdentifier" : "Spotify.Spotify"
+                                },
+                                {
+                                        "PackageIdentifier" : "Stremio.Stremio"
+                                },
+                                {
+                                        "PackageIdentifier" : "Balena.Etcher"
+                                },
+                                {
+                                        "PackageIdentifier" : "baremetalsoft.baretail"
+                                },
+                                {
+                                        "PackageIdentifier" : "Obsidian.Obsidian"
+                                },
+                                {
+                                        "PackageIdentifier" : "zarunbal.LogExpert"
+                                },
+                                {
+                                        "PackageIdentifier" : "Microsoft.PowerToys"
+                                },
+                                {
+                                        "PackageIdentifier" : "Microsoft.VisualStudioCode.Insiders"
+                                },
+                                {
+                                        "PackageIdentifier" : "Microsoft.VisualStudioCode"
+                                },
+                                {
+                                        "PackageIdentifier" : "Microsoft.Bicep"
+                                },
+                                {
+                                        "PackageIdentifier" : "MartiCliment.UniGetUI"
+                                },
+                                {
+                                        "PackageIdentifier" : "Microsoft.Teams"
+                                },
+                                {
+                                        "PackageIdentifier" : "Microsoft.AppInstaller"
+                                },
+                                {
+                                        "PackageIdentifier" : "Microsoft.UI.Xaml.2.8"
+                                },
+                                {
+                                        "PackageIdentifier" : "Microsoft.VCLibs.Desktop.14"
+                                },
+                                {
+                                        "PackageIdentifier" : "Microsoft.WindowsTerminal"
+                                },
+                                {
+                                        "PackageIdentifier" : "Microsoft.WindowsApp"
+                                }
+                        ],
+                        "SourceDetails" :
+                        {
+                                "Argument" : "https://cdn.winget.microsoft.com/cache",
+                                "Identifier" : "Microsoft.Winget.Source_8wekyb3d8bbwe",
+                                "Name" : "winget",
+                                "Type" : "Microsoft.PreIndexed.Package"
+                        }
+                }
+        ],
+        "WinGetVersion" : "1.11.430"
+}
